@@ -1,0 +1,63 @@
+body{
+	background-color: green;
+}
+
+.title {
+	text-align: center; 
+	background-color: grey;
+}
+
+.city {
+	background-color: white; 
+}
+
+.weather-content{
+	background-color: red; 
+}
+.weather-info{
+	background-color: white; 
+	border-color: black; 
+	border-radius: 6px;
+}
+
+li {
+
+	list-style-type: none;
+}
+
+form {
+	padding: 10px 0px 10px 0px;
+}
+/* Style the search field */
+form.location-search input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.location-search button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.location-search button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.location-search::after {
+  content: "";
+  clear: both;
+  display: table;
+}
