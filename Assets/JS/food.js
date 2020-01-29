@@ -196,7 +196,7 @@ $( document ).ready(function() {
 
 		
 
-		window.location.href='../GTBC---PROJECT-1/results1.html';
+		window.location.href='../results.html';
 		
 		buildQueryURLs();
 	 placeimg();
