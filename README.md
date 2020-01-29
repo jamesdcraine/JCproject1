@@ -1,4 +1,4 @@
-https://jamesdcraine.github.io/JCproject1/
+https://jamesdcraine.github.io/choicemaker/
 
 # GTBC---Project-1
 ## **Overview**
