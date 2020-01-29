@@ -196,7 +196,7 @@ $( document ).ready(function() {
 
 		
 
-		window.location.href='../results.html';
+		window.location.href='https://jamesdcraine.github.io/choicemaker/results1.html';
 		
 		buildQueryURLs();
 	 placeimg();
